@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_label">Мої улюблені смаколики</string>
+    <string name="second_label">Рейтинг</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="back">Back</string>
+
+    <string name="RyanGosling">Рейтинг 9/10\nТут молочний шоколад, а так ціни б не було.</string>
+    <string name="RyanGoslingsecond">Рейтинг\n 7/10 \nновий смак в лінійці даних батончиків,\nнагадує баунті\n </string>
+    <string name="RyanGoslingthird">Рейтинг 10/10 \nНу тут класика, трохи гіркуватий,\nтрохи солодкий - ідеальний баланс. </string>
+
+</resources>
